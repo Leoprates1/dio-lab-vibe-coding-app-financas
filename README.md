@@ -85,6 +85,7 @@ Eles acabam sem clareza sobre o que entra, o que sai e o que sobra de verdade.
 
 ## 🎨 Interações com a IA
 ### Tela Inicial
+
 ![Tela inicial do Sobra](./imagem%20(1).png)
 
 ## Resumo do Dia
@@ -102,6 +103,7 @@ Eles acabam sem clareza sobre o que entra, o que sai e o que sobra de verdade.
 ## Dicas do Agente Financeiro
 
 ![Dicas financeiras do Sobra](./imagem.png)
+
 ---
 
 ## 💡 Conceito do App
