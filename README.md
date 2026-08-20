@@ -86,23 +86,33 @@ Eles acabam sem clareza sobre o que entra, o que sai e o que sobra de verdade.
 ## 🎨 Interações com a IA
 ### Tela Inicial
 
-![Tela inicial do Sobra](./image%20(1).png)
+### Login
 
-## Resumo do Dia
+![Tela de login](./logim.png)
 
-![Resumo diário do Sobra](./image%20(2).png)
+### Tela Inicial
 
-## Registro de Vendas
+![Tela inicial](./tela-inicial.png)
 
-![Tela de vendas do Sobra](./image%20(3).png)
+### Quanto Vendeu
 
-## Relatórios
+![Registro de vendas](./registro-vendas.png)
 
-![Relatórios semanais e mensais](./image%20(4).png)
+### Quanto Gastou
 
-## Dicas do Agente Financeiro
+![Registro de despesas](./registro-dispezas.png)
 
-![Dicas financeiras do Sobra](./image.png)
+### Relatórios
+
+![Relatórios](./relatorios.png)
+
+### Dicas Financeiras
+
+![Dicas financeiras](./dicas-financeiras.png)
+
+### Dicas Financeiras 2
+
+![Dicas financeiras 2](./dicas-financeiras2.png)
 ---
 
 ## 💡 Conceito do App
